@@ -1,0 +1,11 @@
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.csproj.AssemblyReference.cache
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.Form1.resources
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.Properties.Resources.resources
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.csproj.GenerateResource.cache
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.csproj.CoreCompileInputs.cache
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\bin\Debug\KutuphaneProjesi.exe.config
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\bin\Debug\KutuphaneProjesi.exe
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\bin\Debug\KutuphaneProjesi.pdb
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.exe
+C:\Users\iayku\OneDrive\Masaüstü\a\KutuphaneProjesi\obj\Debug\KutuphaneProjesi.pdb
